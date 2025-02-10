@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160226992403",
+    "project_id": "palsap-61cb2",
+    "storage_bucket": "palsap-61cb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160226992403:android:08ab3561b20cdf46a97ae6",
+        "android_client_info": {
+          "package_name": "com.employe.pal.acm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBezeJgsc9CTcd70VjRzTap_cas880YgGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
